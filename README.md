@@ -1,7 +1,7 @@
 ### Steps to start Portfolio project
 - **create APP_KEY in .env file**
 - **npm install alpinejs**
-- **npm build**
+- **npm run build**
 - **npm run dev**
 - **php artisan serv**
 
